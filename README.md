@@ -6,7 +6,7 @@ YESOL EOM (@sol09)
 👋 Hi there! 👋 <br>
 I'm a Student Department of **Computer Science** 💻 and Junior Developer of **Back-end and Data Analysis** 📊
  
-<br>
+<br><br>
 
 ### 🌱 My Tech Stacks 🌱
 #### Platforms & Frameworks
