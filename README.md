@@ -2,6 +2,7 @@
 
 YESOL EOM (@sol09)
 ----
+<br>
 👋 Hi there! 👋 <br>
 I'm a Student Department of **Computer Science** 💻 and Junior Developer of **Back-end and Data Analysis** 📊
  
@@ -35,7 +36,7 @@ I'm a Student Department of **Computer Science** 💻 and Junior Developer of **
   <img href="" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <img href="http://edorrr.tistory.com/" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=githubsponsors&logoColor=white"/>
   
-<br>
+<br><br>
     
   
 <!--  
