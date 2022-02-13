@@ -36,6 +36,8 @@ I'm a Student Department of **Computer Science** 💻 and Junior Developer of **
 #### 💬 Reach & More about ME! 💬
   <a href="mailto:yesoll0927@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:yesol0927@naver.com">
+   <img src="https://img.shields.io/badge/Nmail-03C75A?style=flat-square&logo=naver&logoColor=white"/></a><br>
   <a href="http://edorrr.tistory.com/">
    <img href="http://edorrr.tistory.com/" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=githubsponsors&logoColor=white"/></a>
   
