@@ -1,7 +1,7 @@
 <div align=center>
 
-YESOL EOM (@sol09)
-====
+ <h1>YESOL EOM (@sol09)</h1>
+
 <br>
  
 Hi there! 👋 <br>
