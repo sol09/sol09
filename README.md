@@ -39,7 +39,7 @@ I'm a Student Department of **Computer Science** 💻 and Junior Developer of **
   <a href="http://edorrr.tistory.com/">
    <img href="http://edorrr.tistory.com/" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=githubsponsors&logoColor=white"/></a>
   
-<br><br>
+<br>
     
   
 <!--  
