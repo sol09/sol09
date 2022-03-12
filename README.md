@@ -4,7 +4,7 @@ YESOL EOM (@sol09)
 ====
 
 <br>
- 
+
 Hi there! 👋 <br>
 I'm a Student _**Department of Computer Science**_ 💻 and Junior Developer of _**Back-end and Data Analysis**_ 📊
  
