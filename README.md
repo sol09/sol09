@@ -37,7 +37,7 @@ I'm a Student _**Department of Computer Science**_ 💻 and Junior Developer of 
   <a href="mailto:yesol0927@naver.com">
    <img src="https://img.shields.io/badge/Nmail-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
   <a href="http://edorrr.tistory.com/">
-   <img href="http://edorrr.tistory.com/" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=githubsponsors&logoColor=white"/></a>
+   <img href="http://edorrr.tistory.com/" src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=githubsponsors&logoColor=white"/></a>
   
 <br>
 
