@@ -9,7 +9,7 @@ Hi there! 👋 <br>
 I'm a Student _**Department of Computer Science**_ 💻 and Junior Developer of _**Data Analytics and ML**_ 📊
  
 <br>
- 
+<!--
 ### 🌱 My Tech Stacks 🌱
 #### Platforms & Frameworks
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
@@ -40,7 +40,7 @@ I'm a Student _**Department of Computer Science**_ 💻 and Junior Developer of 
    <img href="http://edorrr.tistory.com/" src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=githubsponsors&logoColor=white"/></a>
   
 <br>
-
+-->
 
 <!-- 
 
