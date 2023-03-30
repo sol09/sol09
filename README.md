@@ -1,4 +1,4 @@
-<div align=center> 
+
 
 YESOL EOM (@sol09)
 ====
@@ -9,6 +9,7 @@ Junior Developer of _**Data Analytics and ML**_ 📊
  
 <br>
 <!--
+<div align=center> 
 I'm a Student _**Department of Computer Science**_ 💻 and 
 ### 🌱 My Tech Stacks 🌱
 #### Platforms & Frameworks
