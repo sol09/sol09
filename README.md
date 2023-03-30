@@ -6,10 +6,11 @@ YESOL EOM (@sol09)
 <br>
 
 Hi there! 👋 <br>
-I'm a Student _**Department of Computer Science**_ 💻 and Junior Developer of _**Data Analytics and ML**_ 📊
+Junior Developer of _**Data Analytics and ML**_ 📊
  
 <br>
 <!--
+I'm a Student _**Department of Computer Science**_ 💻 and 
 ### 🌱 My Tech Stacks 🌱
 #### Platforms & Frameworks
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
