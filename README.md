@@ -5,7 +5,7 @@ YESOL EOM (@sol09)
 
 <br>
 
-Junior Developer of _**Data Analytics and ML**_ 📊
+Junior Developer of _**ML and DL**_ 📊
  
 <br>
 <!--
